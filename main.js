@@ -18,7 +18,7 @@ lettersArray.forEach(letter => {
 
 // Object Of Words + Categories
 const words = {
-  names:['amr','tamer',"hala","hosny","laila","yehia","younis","mohamed","mariem","ehsan","hana","sara","hayam","nelly"]
+  names:["abd elrahman","asser",'amr','tamer',"hala","hosny","laila","yehia","younis","mohamed","mariem","ehsan","hana","sara","hayam","nelly"]
 }
 
 // Get Random Property
